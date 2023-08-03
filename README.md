@@ -45,10 +45,13 @@ Description: Intensive exercises involving pointers, arrays, and strings in C.
 Description: A project to find the largest square of "empty" spaces in a given map.
 
 ### Rush00
-Description: Group project to create a small-scale web page using HTML and CSS.
+Description: Group project to create a program that will create a square based on size, using certain characters.
 
 ### Rush01
-Description: Group project to create a basic game/application according to specific requirements.
+Description: Group project to create a skyscraper sudoku solver.
+
+### Rush02
+Description: Group project to create a program that will translate integer to a word you say out loud using a dictionary.
 
 ## Repository Structure
 
