@@ -10,48 +10,9 @@ The 42 Network Piscine is an intensive coding boot camp organized by 42 schools 
 
 During the piscine, participants work on various subjects, projects, and exercises. The curriculum covers a wide range of topics, including C programming, data manipulation, algorithms, data structures, and more. Participants are encouraged to explore, experiment, and learn from each other throughout this intense experience.
 
-## Subjects Completed
+## Subjects
 
-Below is the list of Piscine subjects that I successfully completed (Some might be incomplete or have a small edge case not handled that moulinette does check for. Fuck Moulinette & Norminette):
-
-### 01 - Shell00
-Description: Introduction to the basics of shell commands and navigating the file system.
-
-### 02 - C00
-Description: Basic C programming exercises focusing on manipulating variables, loops, and conditions.
-
-### 03 - C01
-Description: More C exercises involving pointer manipulation, function declarations, and basic arithmetic operations.
-
-### 04 - C02
-Description: Further C exercises emphasizing recursion, string manipulation, and basic memory allocation.
-
-### 05 - C03
-Description: Introduction to linked lists and more advanced memory allocation in C.
-
-### 06 - C04
-Description: C exercises involving arrays, basic parsing, and character manipulations.
-
-### 07 - C05
-Description: Introduction to bitwise operations and more advanced looping in C.
-
-### 08 - C06
-Description: More advanced recursion, mathematical functions, and character conversions in C.
-
-### 09 - C07
-Description: Intensive exercises involving pointers, arrays, and strings in C.
-
-### BSQ (Biggest Square)
-Description: A project to find the largest square of "empty" spaces in a given map.
-
-### Rush00
-Description: Group project to create a program that will create a square based on size, using certain characters.
-
-### Rush01
-Description: Group project to create a skyscraper sudoku solver.
-
-### Rush02
-Description: Group project to create a program that will translate integer to a word you say out loud using a dictionary.
+In my repo is the list of Piscine subjects that I successfully completed (Some might be incomplete or have a small edge case not handled that moulinette does check for. Fuck Moulinette & Norminette):
 
 ## Repository Structure
 
